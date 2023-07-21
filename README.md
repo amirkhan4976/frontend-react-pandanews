@@ -1,5 +1,5 @@
-# Panda News Frontend with React.jsi
+# Panda News Frontend with React.js
 
 Read news fetch and stored in local database from NewsAPI
-Back is Django restframework
+Backend is Django restframework
 
